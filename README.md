@@ -1,7 +1,7 @@
-<img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <h1 align="center">Hi 👋, I'm Kartikeya Raj</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
+<img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/kartikk__raaaz" target="blank"><img src="https://img.shields.io/twitter/follow/kartikk__raaaz?logo=twitter&style=for-the-badge" alt="kartikk__raaaz" /></a> </p>
 
 - 🌱 I’m currently learning ****DevOps****
