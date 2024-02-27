@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikraj28&show_icons=true&locale=en" alt="kartikraj28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikraj28&" alt="kartikraj28" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
