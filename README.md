@@ -1,4 +1,4 @@
-![1_yw0TnheAGN-LPneDaTlaxw](https://github.com/kartikraj28/kartikraj28/assets/131022275/85901a7c-85f0-4dcb-b9f6-3dfa0e5c470e)
+<centre>![1_yw0TnheAGN-LPneDaTlaxw](https://github.com/kartikraj28/kartikraj28/assets/131022275/85901a7c-85f0-4dcb-b9f6-3dfa0e5c470e)</centre>
 <h1 align="center">Hi 👋, I'm Kartikeya Raj</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
