@@ -1,4 +1,4 @@
-[![MasterHead]https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63]
+[![MasterHead]https://giffullstack.blogspot.com/2024/02/blog-post.html]
 <h1 align="center">Hi 👋, I'm Kartikeya Raj</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
