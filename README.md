@@ -9,6 +9,7 @@
 - 💬 Ask me about ****MERN****
 
 - 📫 How to reach me **kartikeyaraj90@gmail.com**
+- Portfolio Website **https://kartikraj28.github.io/Self-Portfolio/**
 
 - ⚡ Fun fact **Venus is the only planet that spins clockwise.**
 
